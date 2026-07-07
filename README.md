@@ -7,7 +7,7 @@ _An execution-focused developer from México_
 
 - I’m currently learning **AI Engineering & Next.js**
 
-- React me @**aimacias@gmail.com** and [LinkedIn: Imanol Macias](https://www.linkedin.com/in/imanol-macias/)
+- Reach me @**aimacias@yahoo.com** and [LinkedIn: Imanol Macias](https://www.linkedin.com/in/imanol-macias/)
 
 - My resume: [Latest_CV.pdf](https://github.com/Imanol57864/Imanol57864/blob/main/Latest_CV.pdf)
 
