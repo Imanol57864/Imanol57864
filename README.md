@@ -5,7 +5,7 @@ _An execution-focused developer from México_
 
 - I’m currently working on [Full Stack Laboratory Analysis Tracking Multi-User Collaborative Platform – IFC](https://github.com/Imanol57864/IFC_Frontend)
 
-- I’m currently learning **Red Hat Certified System Administrator & Certified Kubernetes Administrator**
+- I’m currently learning [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) & [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
 - LinkedIn: [Imanol Macias](https://www.linkedin.com/in/imanol-macias/) 
 
