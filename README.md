@@ -8,7 +8,7 @@ _An execution-focused developer from México_
 
 - I’m currently learning [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) & [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
-- I’m actively learning consulting skills applied to [Software Business Cases]([https://www.youtube.com/watch?v=TFZQIZrK0YQ&t=266s]).
+- I’m actively learning consulting skills applied to [Software Business Cases]([https://youtu.be/TFZQIZrK0YQ]).
 
 - LinkedIn: [Imanol Macias](https://www.linkedin.com/in/imanol-macias/) 
 
