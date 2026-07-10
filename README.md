@@ -12,7 +12,7 @@ _An execution-focused developer from México_
 
 - LinkedIn: [Imanol Macias](https://www.linkedin.com/in/imanol-macias/).
 
-- LeetCode Profile: [Imanol57864](https://leetcode.com/u/Imanol57864/) & [Leetcode Logbook](https://github.com/Imanol57864/Leetcode_Logbook)
+- LeetCode Profile: [Imanol57864](https://leetcode.com/u/Imanol57864/) & [Leetcode Logbook](https://github.com/Imanol57864/Leetcode_Logbook).
 
 - My resume: [Latest_CV.pdf](https://github.com/Imanol57864/Imanol57864/blob/main/Latest_CV.pdf).
 
