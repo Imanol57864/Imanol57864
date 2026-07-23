@@ -4,8 +4,6 @@ _An execution-focused developer from México_
 ## About me:
 - B.S. in [Computer Science and Technology (ITC)](https://tec.mx/en/Engineering-and-Sciences/bs-in-computer-science-and-technology) at Tecnológico de Monterrey (ITESM).
 
-- I’m currently working on [Full Stack Enterprise Resource Planning (ERP) Software – IFC](https://github.com/Imanol57864/IFC_Frontend).
-
 - I’m currently learning [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) & [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/).
 
 - I’m actively learning consulting skills applied to [Software Business Cases](https://www.youtube.com/watch?v=TFZQIZrK0YQ&t=266s).
